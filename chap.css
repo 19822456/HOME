@@ -1,0 +1,120 @@
+html {
+  font-size: 10px;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Arapey', serif;
+  font-weight: 300;
+  font-style: normal;
+  color: #000;
+  background-color: rgb(210, 173, 224);
+}
+div {
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+h1{
+  font-family: 'Abril Fatface', cursive;
+  font-weight: normal;
+  letter-spacing: .05em;
+  color: #000;
+  font-size: 4.8rem;
+  text-align: center;
+  position: relative;
+}
+
+h2{
+  font-family: 'Abril Fatface', cursive;
+  font-weight: normal;
+  letter-spacing: .05em;
+  color: #000;
+  font-size: 4.2rem;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  left: 50%;
+  width: 50%;
+}
+h3{
+  font-family: 'Abril Fatface', cursive;
+  font-weight: normal;
+  letter-spacing: .05em;
+  color: #000;
+  font-size: 3.6rem;
+  text-align: center;
+  position: relative;
+}
+h4{
+  font-family: 'Abril Fatface', cursive;
+  font-weight: normal;
+  letter-spacing: .05em;
+  color: #000;
+  font-size: 3rem;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  left: 50%;
+  width: 50%;
+}
+h5{
+  font-family: 'Abril Fatface', cursive;
+  font-weight: normal;
+  letter-spacing: .05em;
+  color: #000;
+  font-size: 2.4rem;
+  text-align: center;
+  position: relative;
+  top: 40%;
+  left: 50%;
+  width: 50%;
+}
+
+h6{
+  font-family: 'Verdana', cursive;
+  font-weight: normal;
+  letter-spacing: .05em;
+  color: #000;
+  font-size: 1.8rem;
+  text-align: center;
+  position: relative;
+
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  position: relative;
+}
+
+img {
+  float: left;
+  z-index: 1;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  border: 5px dashed rgba(255, 255, 255, 0);
+  margin-left: 100px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+a{
+  color: rgb(4, 0, 255);
+  font-size: 1.8rem;
+  text-align: center;
+  position: center;
+}
+button{
+  top: 3cm;
+  left: 3cm;
+  float: left;
+}
+
+
+
+
+
